@@ -1,0 +1,5 @@
+Download the src folder containing the UrlFiles.py. 
+If you do not have a text file containing urls, download the file inside bin folder - urlfile.txt.
+Run on the command line using python versions above 3. I used - python UrlFiles.py
+Sample output can be seen in images folder.
+Program took 51.77 seconds for downloading 107 images and storing on a local folder.
